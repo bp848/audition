@@ -1,0 +1,5 @@
+{
+  "name": "Audition Service Dashboard",
+  "description": "A technical dashboard for visualizing 9-dimensional Time-Series Circuit Envelopes and BS.1770-4 audio metrics.",
+  "requestFramePermissions": []
+}
